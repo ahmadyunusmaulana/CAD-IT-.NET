@@ -1,0 +1,109 @@
+{
+  "array": [
+    {
+      "temperature": 21.279782079384667,
+      "humidity": 87.2525512400796,
+      "roomArea": "roomArea1",
+      "id": 1,
+      "timestamp": 1593666000000
+    },
+    {
+      "temperature": 21.850241860660457,
+      "humidity": 89.43461041020686,
+      "roomArea": "roomArea2",
+      "id": 2,
+      "timestamp": 1593666000000
+    },
+    {
+      "temperature": 25.93331731363279,
+      "humidity": 90.48683363739528,
+      "roomArea": "roomArea3",
+      "id": 3,
+      "timestamp": 1593666000000
+    },
+    {
+      "temperature": 21.738958092762072,
+      "humidity": 95.38090114906908,
+      "roomArea": "roomArea1",
+      "id": 4,
+      "timestamp": 1593667800053
+    },
+    {
+      "temperature": 26.092709884073468,
+      "humidity": 92.22580502170618,
+      "roomArea": "roomArea2",
+      "id": 5,
+      "timestamp": 1593667800053
+    },
+    {
+      "temperature": 18.035374292274856,
+      "humidity": 96.74463773333717,
+      "roomArea": "roomArea3",
+      "id": 6,
+      "timestamp": 1593667800053
+    },
+    {
+      "temperature": 17.787349672007622,
+      "humidity": 95.28882571359101,
+      "roomArea": "roomArea1",
+      "id": 7,
+      "timestamp": 1593669600147
+    },
+    {
+      "temperature": 21.845404166747038,
+      "humidity": 96.94968601576343,
+      "roomArea": "roomArea2",
+      "id": 8,
+      "timestamp": 1593669600147
+    },
+    {
+      "temperature": 17.573081169430857,
+      "humidity": 94.32108969586722,
+      "roomArea": "roomArea3",
+      "id": 9,
+      "timestamp": 1593669600147
+    },
+    {
+      "temperature": 24.678858108359233,
+      "humidity": 94.4940616614005,
+      "roomArea": "roomArea1",
+      "id": 10,
+      "timestamp": 1593671400221
+    },
+    {
+      "temperature": 20.55004059034074,
+      "humidity": 89.99149645378063,
+      "roomArea": "roomArea2",
+      "id": 11,
+      "timestamp": 1593671400221
+    },
+    {
+      "temperature": 25.609251280989895,
+      "humidity": 95.17187808909205,
+      "roomArea": "roomArea3",
+      "id": 12,
+      "timestamp": 1593671400221
+    },
+    {
+      "temperature": 24.96590264195982,
+      "humidity": 94.41072512918682,
+      "roomArea": "roomArea1",
+      "id": 13,
+      "timestamp": 1593673200223
+    },
+    {
+      "temperature": 20.992026141900812,
+      "humidity": 87.42526702043884,
+      "roomArea": "roomArea2",
+      "id": 14,
+      "timestamp": 1593673200223
+    },
+    {
+      "temperature": 22.132274284330084,
+      "humidity": 93.9290807028022,
+      "roomArea": "roomArea3",
+      "id": 15,
+      "timestamp": 1593673200223
+    }
+  ]
+}

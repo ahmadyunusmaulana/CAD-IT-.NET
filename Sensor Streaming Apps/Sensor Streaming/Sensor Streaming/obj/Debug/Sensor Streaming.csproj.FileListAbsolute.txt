@@ -1,0 +1,16 @@
+C:\Foto Resmi\CAD IT\Sensor Streaming Apps\Sensor Streaming\Sensor Streaming\bin\Debug\Sensor Streaming.exe.config
+C:\Foto Resmi\CAD IT\Sensor Streaming Apps\Sensor Streaming\Sensor Streaming\bin\Debug\Sensor Streaming.exe
+C:\Foto Resmi\CAD IT\Sensor Streaming Apps\Sensor Streaming\Sensor Streaming\bin\Debug\Sensor Streaming.pdb
+C:\Foto Resmi\CAD IT\Sensor Streaming Apps\Sensor Streaming\Sensor Streaming\obj\Debug\Sensor Streaming.csproj.AssemblyReference.cache
+C:\Foto Resmi\CAD IT\Sensor Streaming Apps\Sensor Streaming\Sensor Streaming\obj\Debug\Sensor_Streaming.Form1.resources
+C:\Foto Resmi\CAD IT\Sensor Streaming Apps\Sensor Streaming\Sensor Streaming\obj\Debug\Sensor_Streaming.Properties.Resources.resources
+C:\Foto Resmi\CAD IT\Sensor Streaming Apps\Sensor Streaming\Sensor Streaming\obj\Debug\Sensor Streaming.csproj.GenerateResource.cache
+C:\Foto Resmi\CAD IT\Sensor Streaming Apps\Sensor Streaming\Sensor Streaming\obj\Debug\Sensor Streaming.csproj.CoreCompileInputs.cache
+C:\Foto Resmi\CAD IT\Sensor Streaming Apps\Sensor Streaming\Sensor Streaming\obj\Debug\Sensor Streaming.exe
+C:\Foto Resmi\CAD IT\Sensor Streaming Apps\Sensor Streaming\Sensor Streaming\obj\Debug\Sensor Streaming.pdb
+C:\Foto Resmi\CAD IT\Sensor Streaming Apps\Sensor Streaming\Sensor Streaming\bin\Debug\MetroFramework.Design.dll
+C:\Foto Resmi\CAD IT\Sensor Streaming Apps\Sensor Streaming\Sensor Streaming\bin\Debug\MetroFramework.dll
+C:\Foto Resmi\CAD IT\Sensor Streaming Apps\Sensor Streaming\Sensor Streaming\bin\Debug\MetroFramework.Fonts.dll
+C:\Foto Resmi\CAD IT\Sensor Streaming Apps\Sensor Streaming\Sensor Streaming\obj\Debug\Sensor Streaming.csproj.CopyComplete
+C:\Foto Resmi\CAD IT\Sensor Streaming Apps\Sensor Streaming\Sensor Streaming\bin\Debug\Newtonsoft.Json.dll
+C:\Foto Resmi\CAD IT\Sensor Streaming Apps\Sensor Streaming\Sensor Streaming\bin\Debug\Newtonsoft.Json.xml
