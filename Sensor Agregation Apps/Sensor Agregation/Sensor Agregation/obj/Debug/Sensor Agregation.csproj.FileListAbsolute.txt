@@ -1,0 +1,13 @@
+C:\Foto Resmi\CAD IT\Sensor Agregation Apps\Sensor Agregation\Sensor Agregation\bin\Debug\Sensor Agregation.exe.config
+C:\Foto Resmi\CAD IT\Sensor Agregation Apps\Sensor Agregation\Sensor Agregation\bin\Debug\Sensor Agregation.exe
+C:\Foto Resmi\CAD IT\Sensor Agregation Apps\Sensor Agregation\Sensor Agregation\bin\Debug\Sensor Agregation.pdb
+C:\Foto Resmi\CAD IT\Sensor Agregation Apps\Sensor Agregation\Sensor Agregation\obj\Debug\Sensor Agregation.csproj.AssemblyReference.cache
+C:\Foto Resmi\CAD IT\Sensor Agregation Apps\Sensor Agregation\Sensor Agregation\obj\Debug\Sensor_Agregation.Form1.resources
+C:\Foto Resmi\CAD IT\Sensor Agregation Apps\Sensor Agregation\Sensor Agregation\obj\Debug\Sensor_Agregation.Properties.Resources.resources
+C:\Foto Resmi\CAD IT\Sensor Agregation Apps\Sensor Agregation\Sensor Agregation\obj\Debug\Sensor Agregation.csproj.GenerateResource.cache
+C:\Foto Resmi\CAD IT\Sensor Agregation Apps\Sensor Agregation\Sensor Agregation\obj\Debug\Sensor Agregation.csproj.CoreCompileInputs.cache
+C:\Foto Resmi\CAD IT\Sensor Agregation Apps\Sensor Agregation\Sensor Agregation\obj\Debug\Sensor Agregation.exe
+C:\Foto Resmi\CAD IT\Sensor Agregation Apps\Sensor Agregation\Sensor Agregation\obj\Debug\Sensor Agregation.pdb
+C:\Foto Resmi\CAD IT\Sensor Agregation Apps\Sensor Agregation\Sensor Agregation\bin\Debug\Newtonsoft.Json.dll
+C:\Foto Resmi\CAD IT\Sensor Agregation Apps\Sensor Agregation\Sensor Agregation\bin\Debug\Newtonsoft.Json.xml
+C:\Foto Resmi\CAD IT\Sensor Agregation Apps\Sensor Agregation\Sensor Agregation\obj\Debug\Sensor Agregation.csproj.CopyComplete

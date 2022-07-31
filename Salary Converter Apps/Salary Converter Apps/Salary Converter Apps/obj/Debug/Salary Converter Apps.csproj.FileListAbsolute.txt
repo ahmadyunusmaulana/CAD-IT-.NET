@@ -1,0 +1,60 @@
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Salary Converter Apps.exe.config
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Salary Converter Apps.exe
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Salary Converter Apps.pdb
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\obj\Debug\Salary Converter Apps.csproj.AssemblyReference.cache
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\obj\Debug\Salary_Converter_Apps.Form1.resources
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\obj\Debug\Salary_Converter_Apps.Properties.Resources.resources
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\obj\Debug\Salary Converter Apps.csproj.GenerateResource.cache
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\obj\Debug\Salary Converter Apps.csproj.CoreCompileInputs.cache
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\obj\Debug\Salary Converter Apps.exe
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\obj\Debug\Salary Converter Apps.pdb
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Json.Net.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Newtonsoft.Json.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Newtonsoft.Json.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\obj\Debug\Salary Converter Apps.csproj.CopyComplete
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Antlr3.Runtime.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Rabbit.SerializationMaster.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Rabbit.SerializationMaster.Web.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Buffers.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Memory.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Numerics.Vectors.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Text.Encodings.Web.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Text.Json.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.ValueTuple.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.Helpers.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.Mvc.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.Mvc.Extensions.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.Optimization.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.Razor.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.WebPages.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\SystemWeb.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Vse.Web.Serialization.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\WebGrease.dll
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Antlr3.Runtime.pdb
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Rabbit.SerializationMaster.pdb
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Rabbit.SerializationMaster.Web.pdb
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Buffers.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Memory.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Numerics.Vectors.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Text.Encodings.Web.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Text.Json.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.ValueTuple.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.Helpers.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.Mvc.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.Mvc.Extensions.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.Optimization.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.Razor.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.WebPages.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Foto Resmi\CAD IT\Salary Converter Apps\Salary Converter Apps\Salary Converter Apps\bin\Debug\Vse.Web.Serialization.pdb
